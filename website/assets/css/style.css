@@ -43,3 +43,6 @@ section {
 .row input {
     align-items: center;
 }
+.container-fluid {
+    padding: 0;
+}
