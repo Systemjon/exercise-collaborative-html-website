@@ -7,15 +7,14 @@ body{
 .nav-link:hover, .container-fluid:first-child a:hover {
     color: rgb(87, 85, 85);
 }
-.services-html {
-    background-color: white;
-}
+
 .h1s, .h1s-grey {
     display: inline;
 }
 .h1s-grey {
     color: grey;
 }
-.navbar {
-    margin-bottom: 3rem;
-}
+
+/* .services-img {
+    padding-bottom: 1rem;
+} */
