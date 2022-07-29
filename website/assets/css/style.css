@@ -20,24 +20,23 @@ body{
 }
 .heading h2{
     width: 80%; 
-    display: flex;      
+    display: inline;      
 }
 .heading p{
     width: 90%;
+    
 }
 header {
     display: flex;
-    height: 70%;
+    height: 50%;
     justify-content: space-between;
-    padding: 80px;
-    border: solid; /* hay que quitar el border despues */
+    padding: 30px;
     align-items: left;
 }
 div.heading img-01 {
     width: 50%;
 }
 section {
-    border: solid;
     padding: 80px;
 }
 .row input {
