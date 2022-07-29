@@ -1,3 +1,12 @@
 body{
     background: #BDBDBD;
 }
+.navbar-brand, .nav-link {
+    color: grey;
+}
+.nav-link:hover, .container-fluid:first-child a:hover {
+    color: rgb(87, 85, 85);
+}
+.services-html {
+    background-color: white;
+}
