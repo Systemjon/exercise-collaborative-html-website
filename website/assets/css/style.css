@@ -42,6 +42,9 @@ section {
 .row input {
     align-items: center;
 }
+.container-fluid {
+    padding: 0;
+}
 div.header-01{
     width: 50%;
     background: rgb(235, 233, 233, 0.5);
