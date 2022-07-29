@@ -10,3 +10,12 @@ body{
 .services-html {
     background-color: white;
 }
+.h1s, .h1s-grey {
+    display: inline;
+}
+.h1s-grey {
+    color: grey;
+}
+.navbar {
+    margin-bottom: 3rem;
+}
