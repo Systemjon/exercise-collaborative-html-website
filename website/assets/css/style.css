@@ -20,29 +20,38 @@ body{
 }
 .heading h2{
     width: 80%; 
-    display: flex;      
+    display: inline;      
 }
 .heading p{
     width: 90%;
+    
 }
 header {
     display: flex;
-    height: 70%;
+    height: 50%;
     justify-content: space-between;
-    padding: 80px;
-    border: solid; /* hay que quitar el border despues */
+    padding: 30px;
     align-items: left;
 }
 div.heading img-01 {
     width: 50%;
 }
 section {
-    border: solid;
-    padding: 80px;
+    padding: 40px;
 }
 .row input {
     align-items: center;
 }
 .container-fluid {
     padding: 0;
+}
+div.header-01{
+    width: 50%;
+    background: rgb(235, 233, 233, 0.5);
+    align-content: center;
+    padding: 10px;
+    
+}
+section .md-4 {
+    padding: 5px;
 }
