@@ -58,3 +58,27 @@ section .md-4 {
 .margin{
     margin: 0 1rem 0 1rem;
 }
+.tagline {
+    width: 100%;
+    height: 500px;
+    margin-top: -50px;
+    background-image: url("https://img.freepik.com/foto-gratis/hermosa-panoramica-ciudad-nueva-york_181624-433.jpg?w=1060&t=st=1659287246~exp=1659287846~hmac=5fec2aa8b67b92eb88da4e577de982888c385c8c99f366ec3cac9289baecb645");
+    background-size: cover;
+    background-position: center;
+}
+.h-tagline {
+    background-color: white;
+}
+#h1-tagline {
+    text-align: center;
+    font-size: 75px;
+    margin-bottom: 15px;
+}
+#h2-tagline {
+    text-align: center;
+    font-size: 45px;
+}
+#title {
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
